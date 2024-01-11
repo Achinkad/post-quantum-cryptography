@@ -16,8 +16,8 @@ This repository comprises an article centered on **Quantum-Resilient Cryptograph
 
 The following authors contributed equally to the work.
 
-- _2230456@my.ipleiria.pt_ - [Bruno Santos](https://github.com/brunobertolo)
-- _2230455@my.ipleiria.pt_ - [José Areia](https://github.com/joseareia)
+- [Bruno Santos](https://github.com/brunobertolo) (_2230456@my.ipleiria.pt_)
+- [José Areia](https://github.com/joseareia) (_2230455@my.ipleiria.pt_)
 
 ## License
 
