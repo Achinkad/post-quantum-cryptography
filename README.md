@@ -12,6 +12,11 @@ This repository comprises an article centered on **Quantum-Resilient Cryptograph
 - Quantum_Computing_Resistant_Cryptography.ipynb
 - Pratical_Video_Demonstration.mp4
 
+## Pratical Video Demonstration
+[![Watch the video](https://img.youtube.com/vi/xsUgN8ZaIgA/hqdefault.jpg)](https://www.youtube.com/embed/xsUgN8ZaIgA)
+
+[<img src="https://img.youtube.com/vi/xsUgN8ZaIgA/hqdefault.jpg" width="600" height="300"/>](https://www.youtube.com/embed/xsUgN8ZaIgA)
+
 ## Authors
 
 The following authors contributed equally to the work.
