@@ -13,7 +13,7 @@ This repository comprises an article centered on **Quantum-Resilient Cryptograph
 - Pratical_Video_Demonstration.mp4
 
 ## Pratical Video Demonstration
-<video src='https://www.youtube.com/watch?v=xsUgN8ZaIgA'></video>
+<iframe src='https://www.youtube.com/embed/xsUgN8ZaIgA'></iframe>
 
 ## Authors
 
