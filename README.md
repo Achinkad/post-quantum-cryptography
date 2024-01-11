@@ -6,14 +6,18 @@ Quantum computing is undoubtedly a hot topic in the research community, attracti
 
 ## Contents
 
-This repository comprises an article centered on **Quantum-Resilient Cryptography**, a practical Jupyter Notebook incorporating a theoretical discourse and a hands-on demonstration. Additionally, there is a complementary video summarizing and consolidating the work undertaken in the practical section.
+This repository comprises an article centered on **Quantum-Resilient Cryptography**, a practical Jupyter Notebook incorporating a theoretical discourse and a hands-on demonstration. Additionally, there is a complementary video summarizing and consolidating the work undertaken in the practical section. The list below delineates the file tree available in the repository.
+
+- Quantum_Computing_Resistant_Cryptography.pdf
+- Quantum_Computing_Resistant_Cryptography.ipynb
+- Pratical_Video_Demonstration.mp4
 
 ## Authors
 
 The following authors contributed equally to the work.
 
-- _2230456_ - [Bruno Santos](https://github.com/brunobertolo)
-- _2230455_ - [José Areia](https://github.com/joseareia)
+- _2230456@my.ipleiria.pt_ - [Bruno Santos](https://github.com/brunobertolo)
+- _2230455@my.ipleiria.pt_ - [José Areia](https://github.com/joseareia)
 
 ## License
 
